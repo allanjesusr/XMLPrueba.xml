@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage MessageSchemaVersionId="ern/382" ReleaseProfileVersionId="CommonReleaseTypes/13/AudioAlbumMusicandSpeech" xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" xmlns:avs="http://ddex.net/xml/avs/avs_20161006.xsd">
+  <MessageHeader>
+    <MessageThreadId>FUGA_7010105166</MessageThreadId>
+    <MessageId>FUGA_7010109423</MessageId>
+    <MessageFileName>8445162486842.xml</MessageFileName>
+    <MessageSender>
+      <PartyId>PADPIDA20110330020</PartyId>
+      <PartyName>
+        <FullName>FUGA</FullName>
+      </PartyName>
+    </MessageSender>
+    <SentOnBehalfOf>
+      <PartyId>PADPIDA2020040506O</PartyId>
+      <PartyName>
+        <FullName>Musicadders SL</FullName>
+      </PartyName>
+    </SentOnBehalfOf>
+    <MessageRecipient>
+      <PartyId>PADPIDA2013020802I</PartyId>
+      <PartyName>
+        <FullName>YouTube Music</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2023-03-06T12:45:44+01:00</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ES71G2139375</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_USR_ID:7010101403</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Amesen Egongelan</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>eu</LanguageOfPerformance>
+      <Duration>PT4M42S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="FormalTitle">
+          <TitleText>Amesen Egongelan</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Amesen Egongelan</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <OriginalResourceReleaseDate>2021-08-25</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>2021 Motmo.pro</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>30</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8445162486842_T1_0_SoundRecording_001_001.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>f3268e1df442082a7f91a0073abfc998</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ES71G2139376</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_USR_ID:7010101419</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Garrasiak</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>eu</LanguageOfPerformance>
+      <Duration>PT3M31S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="FormalTitle">
+          <TitleText>Garrasiak</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Garrasiak</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <OriginalResourceReleaseDate>2021-08-25</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>2021 Motmo.pro</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T2_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>30</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8445162486842_T2_0_SoundRecording_001_002.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>9dd2d91e6ed7eeb4054980969dabd585</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ES71G2139378</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_USR_ID:7010101435</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Negu Lurra</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>eu</LanguageOfPerformance>
+      <Duration>PT3M51S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="FormalTitle">
+          <TitleText>Negu Lurra</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Negu Lurra</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <OriginalResourceReleaseDate>2021-08-25</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>2021 Motmo.pro</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T3_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>30</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8445162486842_T3_0_SoundRecording_001_003.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>bf3c6181e4f25f477c655a0d204e75de</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ES71G2139379</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_USR_ID:7010101442</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Jokalaria</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>eu</LanguageOfPerformance>
+      <Duration>PT3M12S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="FormalTitle">
+          <TitleText>Jokalaria</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jokalaria</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <OriginalResourceReleaseDate>2021-08-25</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>2021 Motmo.pro</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T4_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>30</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8445162486842_T4_0_SoundRecording_001_004.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>c4c8f9473918cc29233021859f8d4fba</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ES71G2139377</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_USR_ID:7010101449</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Zure laztanaren Zain</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>eu</LanguageOfPerformance>
+      <Duration>PT4M36S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="FormalTitle">
+          <TitleText>Zure laztanaren Zain</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Zure laztanaren Zain</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <OriginalResourceReleaseDate>2021-08-25</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>2021 Motmo.pro</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T5_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>30</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8445162486842_T5_0_SoundRecording_001_005.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>1abb3151ad522cd4b765e06ba419600c</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UIM_ID:7010101414</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A6</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>1425</ImageHeight>
+          <ImageWidth>1425</ImageWidth>
+          <ImageResolution>72</ImageResolution>
+          <File>
+            <FileName>8445162486842_T6_Image.jpg</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>d3d1b0a2ee39a9d50b1459078fe70e96</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <ICPN IsEan="true">8445162486842</ICPN>
+        <CatalogNumber Namespace="PADPIDA20110330020">jabipatxon006</CatalogNumber>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UR_ID:7010105166</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Amesen Egongelan</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Amesen Egongelan</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Amesen Egongelan</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Disc-1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>2</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>3</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>4</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>5</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+          <SubGenre>Folk</SubGenre>
+        </Genre>
+        <ReleaseDate>2021-08-25</ReleaseDate>
+        <OriginalReleaseDate>2021-08-25</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2021</Year>
+        <PLineText>2021 Motmo.pro</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2021</Year>
+        <CLineText>Motmo.pro</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>ES71G2139375</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UR_ID:7010105166_7010101403</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Amesen Egongelan</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Amesen Egongelan</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Amesen Egongelan</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8445162486842</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ReleaseDate>2021-08-25</ReleaseDate>
+        <OriginalReleaseDate>2021-08-25</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2021</Year>
+        <PLineText>2021 Motmo.pro</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2021</Year>
+        <CLineText>Motmo.pro</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>ES71G2139376</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UR_ID:7010105166_7010101419</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R2</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Garrasiak</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Garrasiak</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Garrasiak</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8445162486842</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ReleaseDate>2021-08-25</ReleaseDate>
+        <OriginalReleaseDate>2021-08-25</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2021</Year>
+        <PLineText>2021 Motmo.pro</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2021</Year>
+        <CLineText>Motmo.pro</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>ES71G2139378</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UR_ID:7010105166_7010101435</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R3</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Negu Lurra</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Negu Lurra</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Negu Lurra</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8445162486842</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ReleaseDate>2021-08-25</ReleaseDate>
+        <OriginalReleaseDate>2021-08-25</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2021</Year>
+        <PLineText>2021 Motmo.pro</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2021</Year>
+        <CLineText>Motmo.pro</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>ES71G2139379</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UR_ID:7010105166_7010101442</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R4</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Jokalaria</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Jokalaria</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jokalaria</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8445162486842</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ReleaseDate>2021-08-25</ReleaseDate>
+        <OriginalReleaseDate>2021-08-25</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2021</Year>
+        <PLineText>2021 Motmo.pro</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2021</Year>
+        <CLineText>Motmo.pro</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>ES71G2139377</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">GGL_UR_ID:7010105166_7010101449</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R5</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Zure laztanaren Zain</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Jabi Patxon</DisplayArtistName>
+        <LabelName>MOTMO</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Zure laztanaren Zain</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Zure laztanaren Zain</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Jabi Patxon</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA20110330020" IsISNI="false">7006345765</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8445162486842</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative/Indie</GenreText>
+        </Genre>
+        <ReleaseDate>2021-08-25</ReleaseDate>
+        <OriginalReleaseDate>2021-08-25</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2021</Year>
+        <PLineText>2021 Motmo.pro</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2021</Year>
+        <CLineText>Motmo.pro</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-03-06</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-03-06</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R2</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-03-06</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R3</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-03-06</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R4</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-03-06</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R5</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">FRONT</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">FRONT</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2021-08-25</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-03-06</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
